@@ -2,10 +2,11 @@
 
 <body id="home">
 
-
+<section id = "headBackground">
 <? 
 include ("header.php");
 ?>
+</section>
 <?
 include ("nav.php");
 ?>
