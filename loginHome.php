@@ -7,9 +7,11 @@
 include ("header.php");
 ?>
 </section>
+<section id = "navBackground">
 <?
 include ("nav.php");
 ?>
+</section>
 <section id="mainBody">
 <h1>Home</h1>
 <article id="main1">
